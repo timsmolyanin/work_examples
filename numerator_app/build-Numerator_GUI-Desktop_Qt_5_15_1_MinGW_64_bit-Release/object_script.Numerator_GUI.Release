@@ -1,0 +1,10 @@
+release/App.o
+release/SerialPort.o
+release/TableModel.o
+release/main.o
+release/main_qml.o
+release/qmlcache_loader.o
+release/qrc_qml_qmlcache.o
+release/moc_App.o
+release/moc_SerialPort.o
+release/moc_TableModel.o
